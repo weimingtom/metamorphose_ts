@@ -3,6 +3,7 @@
 
 ## demo  
 * For PC (from index.ts) :  
-https://weimingtom.github.io/metamorphose_ts/  
+https://weimingtom.github.io/metamorphose_ts/console.html
+ 
 * For mobile phone (from jxcore-repl) :  
 https://weimingtom.github.io/metamorphose_ts/repl.html  
