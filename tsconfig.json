@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "UMD",
+      "sourceMap": true,
+      "declaration": false,
+      "outDir": "./dist",
+      "moduleResolution": "Node",
+      "esModuleInterop": true,
+      "removeComments": false,
+      "importHelpers": false,
+      "strict": true,
+      "lib": ["ES6", "DOM"]
+    },
+    "include": ["src"]
+  }
+  
