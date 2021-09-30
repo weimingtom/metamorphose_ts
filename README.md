@@ -2,7 +2,7 @@
 [WIP] Metamorphose (jill) TypeScript port
 
 ## demo  
-* For PC (from index.ts) :  
+* For PC (from console.js) :   
 https://weimingtom.github.io/metamorphose_ts/console.html
  
 * For mobile phone (from jxcore-repl) :  
